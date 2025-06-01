@@ -5,6 +5,7 @@ CREW XR Framework is an Unreal Engine Plugin developed by CREW, that contains ba
 It contains:
 - Different components of our Manu Avatar, such as Skeletal Mesh, Mesh, Skeleton, animation sequences, animation blueprint, control rig, IK rig, Physics asset and T pose.
 - an XR player for the immersants or performer, with hand tracking.
+![Screenshot 2025-05-23 115256](https://github.com/user-attachments/assets/0a9e4d5d-29d7-4766-8bbd-7d974b503b0f)
 
 ***
 Requirements:
@@ -22,7 +23,9 @@ Whenever you'd like to use one of of the components, never modify them directly 
 
 In order to use our XR settings to launch a new VR experience: 
 - make sure it's in play in VR
-- Create a GameMode for your VR experience with our assets:
+- Create a new GameMode for your VR experience with our XR Player
+
+![Screenshot 2025-05-23 115307](https://github.com/user-attachments/assets/6c4506e0-656e-4122-a8f4-28d0ee591810)
 
 ## Decide on the visibility of the first person POV
 
