@@ -28,6 +28,7 @@ In order to use our XR settings to launch a new VR experience:
 ![Screenshot 2025-05-23 115307](https://github.com/user-attachments/assets/6c4506e0-656e-4122-a8f4-28d0ee591810)
 
 ## Decide on the visibility of the first person POV
+To decide on the visibility of the players, use the nodes "hidden in game" with the conditions you'd like to apply.
 
 ***
 
