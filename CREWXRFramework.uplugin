@@ -2,7 +2,7 @@
 	"FileVersion": 1,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "CREW XR Utilities",
+	"FriendlyName": "CREW XR Framework",
 	"Description": "Basic utilities from CREW for XR experiences",
 	"Category": "CREW",
 	"CreatedBy": "CREW",
