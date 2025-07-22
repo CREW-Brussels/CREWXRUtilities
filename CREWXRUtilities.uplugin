@@ -1,0 +1,49 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CREW XR Utilities",
+	"Description": "Basic utilities from CREW for XR experiences",
+	"Category": "CREW",
+	"CreatedBy": "CREW",
+	"CreatedByURL": "http://crew.brussels",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "CREWXR",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "CREWXREditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ViveOpenXR",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenXR",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenXRHandTracking",
+			"Enabled": true
+		},
+		{
+			"Name": "VRExpansionPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "XRVisualization",
+			"Enabled": true
+		}
+	]
+}
