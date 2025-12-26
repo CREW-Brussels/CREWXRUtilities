@@ -5,7 +5,8 @@ CREW XR Utilities is an Unreal Engine Plugin developed by CREW, that contains ba
 It contains:
 - Different components of our Manu Avatar, such as Skeletal Mesh, Mesh, Skeleton, animation sequences, animation blueprint, control rig, IK rig, Physics asset and T pose.
 - an XR player for the immersants or performer, with hand tracking.
-![Screenshot 2025-05-23 115256](https://github.com/user-attachments/assets/0a9e4d5d-29d7-4766-8bbd-7d974b503b0f)
+
+<img width="1563" height="393" alt="449767209-0a9e4d5d-29d7-4766-8bbd-7d974b503b0f" src="https://github.com/user-attachments/assets/a3f415bd-ca5b-422f-898b-7d00da4a74d1" />
 
 ***
 Requirements:
@@ -25,7 +26,9 @@ In order to use our XR settings to launch a new VR experience:
 - make sure it's in play in VR
 - Create a new GameMode for your VR experience with our XR Player
 
-![Screenshot 2025-05-23 115307](https://github.com/user-attachments/assets/6c4506e0-656e-4122-a8f4-28d0ee591810)
+<img width="183" height="247" alt="449767204-6c4506e0-656e-4122-a8f4-28d0ee591810" src="https://github.com/user-attachments/assets/2d301261-e1c2-4aac-9ccb-40c94966faab" />
+
+
 
 ## Decide on the visibility of the first person POV
 To decide on the visibility of the players, use the nodes "hidden in game" with the conditions you'd like to apply.
