@@ -27,7 +27,7 @@
 	"Plugins": [
 		{
 			"Name": "ViveOpenXR",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "OpenXR",
